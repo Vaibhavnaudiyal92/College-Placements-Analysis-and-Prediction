@@ -27,7 +27,12 @@ Performed some analysis to better undertsand the data.
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
      
-     
+<img src="https://github.com/Vaibhavnaudiyal92/College-Placements-Analysis-and-Prediction/blob/master/download%20(11).png?raw=true"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />   
+<img src="https://github.com/Vaibhavnaudiyal92/College-Placements-Analysis-and-Prediction/blob/master/download%20(12).png?raw=true"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 # Conclusion
 With an average accuracy of 94%, Naive Baye's seems to be outperforming Decision Trees by 7%. After using SMOTE, we were able to obtain these better results. Why Naive Baye's? Because Naive Baye's performs well when the size of dataset is small.
