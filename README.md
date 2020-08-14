@@ -16,14 +16,14 @@ Size of dataset is very small(around 200-300 values). Performance will vary on i
 # Exploratory Data Analysis
 Performed some analysis to better undertsand the data.
 
-<img src="https://github.com/Vaibhavnaudiyal92/https://raw.githubusercontent.com/Vaibhavnaudiyal92/College-Placements-Analysis-and-Prediction/master/download%20(9).png?raw=true"
+<img src="https://github.com/Vaibhavnaudiyal92/College-Placements-Analysis-and-Prediction/master/download%20(9).png?raw=true"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-<img src="https://github.com/Vaibhavnaudiyal92/https://raw.githubusercontent.com/Vaibhavnaudiyal92/College-Placements-Analysis-and-Prediction/master/download%20(8).png?raw=true"
+<img src="https://github.com/Vaibhavnaudiyal92/College-Placements-Analysis-and-Prediction/master/download%20(8).png?raw=true"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-<img src="https://github.com/Vaibhavnaudiyal92/https://raw.githubusercontent.com/Vaibhavnaudiyal92/College-Placements-Analysis-and-Prediction/master/download%20(10).png?raw=true"
+<img src="https://github.com/Vaibhavnaudiyal92/College-Placements-Analysis-and-Prediction/master/download%20(10).png?raw=true"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
      
