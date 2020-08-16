@@ -6,7 +6,7 @@ Almost each and every student has to go through placement process during the fin
 # Data Sources
 I have downloaded the dataset from [Kaggle](https://kaggle.com)
 # Purpose
-I will be analysing the factors that can affect the placement of an MBA student. Also, I will be creating a machine learning classifier model which will be able to predict of a given student can get a placement or not.
+I will be analysing the factors that can affect the placement of an MBA student. Also, I will be creating a machine learning classifier model which will be able to predict if a given student can get a placement or not.
 
 # NOTE
 Size of dataset is very small(around 200-300 values). Performance will vary on increasing the size of dataset.
