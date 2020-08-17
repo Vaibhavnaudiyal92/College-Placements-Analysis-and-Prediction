@@ -23,14 +23,14 @@ Performed some analysis to better undertsand the data.
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-<img src="https://github.com/Vaibhavnaudiyal92/College-Placements-Analysis-and-Prediction/blob/master/c1%20.png?raw=true"
+<img src="https://github.com/Vaibhavnaudiyal92/College-Placements-Analysis-and-Prediction/blob/master/c1.png?raw=true"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
      
-<img src="https://github.com/Vaibhavnaudiyal92/College-Placements-Analysis-and-Prediction/blob/master/c2%20.png?raw=true"
+<img src="https://github.com/Vaibhavnaudiyal92/College-Placements-Analysis-and-Prediction/blob/master/c2.png?raw=true"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />   
-<img src="https://github.com/Vaibhavnaudiyal92/College-Placements-Analysis-and-Prediction/blob/master/c3%20.png?raw=true"
+<img src="https://github.com/Vaibhavnaudiyal92/College-Placements-Analysis-and-Prediction/blob/master/c3.png?raw=true"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
