@@ -23,16 +23,16 @@ Performed some analysis to better undertsand the data.
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-<img src="https://github.com/Vaibhavnaudiyal92/College-Placements-Analysis-and-Prediction/blob/master/download%20(10).png?raw=true"
+<img src="https://github.com/Vaibhavnaudiyal92/College-Placements-Analysis-and-Prediction/blob/master/c1%20.png?raw=true"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
      
-<img src="https://github.com/Vaibhavnaudiyal92/College-Placements-Analysis-and-Prediction/blob/master/download%20(11).png?raw=true"
+<img src="https://github.com/Vaibhavnaudiyal92/College-Placements-Analysis-and-Prediction/blob/master/c2%20.png?raw=true"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />   
-<img src="https://github.com/Vaibhavnaudiyal92/College-Placements-Analysis-and-Prediction/blob/master/download%20(12).png?raw=true"
+<img src="https://github.com/Vaibhavnaudiyal92/College-Placements-Analysis-and-Prediction/blob/master/c3%20.png?raw=true"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
 # Conclusion
-With an average accuracy of 94%, Naive Baye's seems to be outperforming Decision Trees by 7%. After using SMOTE, we were able to obtain these better results. Why Naive Baye's? Because Naive Baye's performs well when the size of dataset is small.
+Decision Trees are performing better with an accuracy of 82% in comparison to Naive Baye's which has an accuracy of 72%. We can further improve the accuracy by using ensembling techniques like Random Forest and Gradient Boosted Trees. Salary feature was removed because it was a dependent feature.
